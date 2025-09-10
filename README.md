@@ -35,7 +35,7 @@ The system is designed as a **multi-agent architecture**, where specialized agen
 
 - **Language**: Python 3.12  
 - **Framework**: Phi (Multi-Agent Framework)  
-- **LLM Provider**: Groq (`gemma2-9b-it`)  
+- **LLM Provider**: Groq (`llama-3.3-70b-versatile`)  
 - **Tools**:
   - DuckDuckGo (Web Search)  
   - YFinance (Financial Data & News)  
